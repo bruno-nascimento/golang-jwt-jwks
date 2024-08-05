@@ -1,0 +1,1 @@
+This is a simple tutorial or sample implementation on how to generate a JWT and validate it against a public key exposed and retrieved from a JWKS endpoint
